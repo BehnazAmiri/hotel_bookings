@@ -1,1 +1,5 @@
 ﻿*.ova
+
+*private-key*
+*.key
+*.pem
