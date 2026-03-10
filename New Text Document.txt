@@ -1,0 +1,26 @@
+---ssh -tt -i "E:\2-year2023-2024\509074-DATA SCIENCE AND BIG DATA ANALYTICS\NewProject\dsbda-vm-private-key" -o StrictHostKeyChecking=no -p 2222 ubuntu@localhost
+
+---scp -P 2222 -i "E:\2-year2023-2024\509074-DATA SCIENCE AND BIG DATA ANALYTICS\NewProject\dsbda-vm-private-key" "E:\2-year2023-2024\509074-DATA SCIENCE AND BIG DATA ANALYTICS\NewProject\hotel_bookings.csv" ubuntu@localhost:/home/ubuntu/
+
+---scp -P 2222 -i "E:\2-year2023-2024\509074-DATA SCIENCE AND BIG DATA ANALYTICS\NewProject\dsbda-vm-private-key" "E:\2-year2023-2024\509074-DATA SCIENCE AND BIG DATA ANALYTICS\NewProject\country_city.csv" ubuntu@localhost:/home/ubuntu/
+
+---scp -P 2222 "C:\Users\Behnaz-PC\Downloads\jdk-8u251-linux-x64.tar.gz" ubuntu@localhost:/home/ubuntu
+
+---scp -P 2222 "C:\Users\Behnaz-PC\Downloads\hadoop-2.10.0.tar.gz" ubuntu@localhost:/home/ubuntu
+ 
+---start-dfs.sh
+
+---jps
+
+
+
+
+✅ 1.
+hdfs dfs -rm /user/behnaz/hotel_bookings_with_header.csv
+
+✅ 2.
+hdfs dfs -rm -r /user/behnaz
+
+
+✅ 3.
+hdfs dfs -ls /user/behnaz

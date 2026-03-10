@@ -1,0 +1,252 @@
+country,city
+JPN,Tokyo
+IDN,Jakarta
+PHL,Manila
+KOR,Seoul
+MEX,Mexico City
+EGY,Cairo
+BGD,Dhaka
+CHN,Beijing
+THA,Bangkok
+RUS,Moscow
+ARG,Buenos Aires
+IRN,Tehran
+COD,Kinshasa
+GBR,London
+FRA,Paris
+PER,Lima
+AGO,Luanda
+MYS,Kuala Lumpur
+VNM,Hanoi
+COL,Bogota
+SDN,Khartoum
+HKG,Hong Kong
+SAU,Riyadh
+CHL,Santiago
+ESP,Madrid
+IRQ,Baghdad
+SGP,Singapore
+KEN,Nairobi
+TUR,Ankara
+MMR,Rangoon
+USA,Washington
+CIV,Abidjan
+DEU,Berlin
+ZAF,Cape Town
+AFG,Kabul
+MLI,Bamako
+JOR,Amman
+NGA,Abuja
+DZA,Algiers
+GRC,Athens
+ETH,Addis Ababa
+GTM,Guatemala City
+KWT,Kuwait City
+HUN,Budapest
+YEM,Sanaa
+UZB,Tashkent
+UKR,Kyiv
+BOL,La Paz
+PRK,Pyongyang
+BRA,Brasilia
+ITA,Rome
+SOM,Mogadishu
+TWN,Taipei
+SYR,Damascus
+ZMB,Lusaka
+BFA,Ouagadougou
+CMR,Yaounde
+LBN,Beirut
+ROU,Bucharest
+GHA,Accra
+LKA,Colombo
+AZE,Baku
+MDG,Antananarivo
+VEN,Caracas
+AUT,Vienna
+ZWE,Harare
+KHM,Phnom Penh
+SWE,Stockholm
+CUB,Havana
+BLR,Minsk
+POL,Warsaw
+PRI,San Juan
+ECU,Quito
+COG,Brazzaville
+URY,Montevideo
+HND,Tegucigalpa
+UGA,Kampala
+GIN,Conakry
+BGR,Sofia
+CRI,San Jose
+RWA,Kigali
+PAN,Panama City
+ARE,Abu Dhabi
+NLD,Amsterdam
+SEN,Dakar
+OMN,Muscat
+MNG,Ulaanbaatar
+DNK,Copenhagen
+FIN,Helsinki
+CZE,Prague
+IRL,Dublin
+BEL,Brussels
+SRB,Belgrade
+QAT,Doha
+LBY,Tripoli
+MMR,Nay Pyi Taw
+BDI,Bujumbura
+MOZ,Maputo
+DOM,Santo Domingo
+KGZ,Bishkek
+GEO,Tbilisi
+TCD,N'Djamena
+KAZ,Astana
+MRT,Nouakchott
+ARM,Yerevan
+CAN,Ottawa
+NOR,Oslo
+NIC,Managua
+TKM,Ashgabat
+NER,Niamey
+LBR,Monrovia
+PAK,Islamabad
+MWI,Lilongwe
+HTI,Port-au-Prince
+ERI,Asmara
+SLE,Freetown
+LAO,Vientiane
+ISR,Jerusalem
+LVA,Riga
+CAF,Bangui
+TJK,Dushanbe
+NPL,Kathmandu
+GAB,Libreville
+HRV,Zagreb
+ZAF,Pretoria
+LTU,Vilnius
+MDA,Chisinau
+PNG,Port Moresby
+BEN,Cotonou
+BHR,Manama
+EST,Tallinn
+DJI,Djibouti
+TUN,Tunis
+XGZ,Gaza
+JAM,Kingston
+MAR,Rabat
+PRT,Lisbon
+NLD,The Hague
+MKD,Skopje
+GNB,Bissau
+MLT,Valletta
+PRY,Asuncion
+SVK,Bratislava
+SSD,Juba
+NAM,Windhoek
+BIH,Sarajevo
+ALB,Tirana
+GMB,Banjul
+AUS,Canberra
+LSO,Maseru
+CYP,Nicosia
+SLV,San Salvador
+REU,Saint-Denis
+BOL,Sucre
+GNQ,Malabo
+SVN,Ljubljana
+BHS,Nassau
+ZAF,Bloemfontein
+MTQ,Fort-de-France
+IND,New Delhi
+BWA,Gaborone
+SUR,Paramaribo
+TLS,Dili
+NZL,Wellington
+GUY,Georgetown
+XKS,Pristina
+FJI,Suva
+NCL,Noumea
+MNE,Podgorica
+CUW,Willemstad
+MUS,Port Louis
+ISL,Reykjavik
+BDI,Gitega
+CHE,Bern
+BEN,Porto-Novo
+MDV,Male
+LUX,Luxembourg
+PYF,Papeete
+LKA,Sri Jayewardenepura Kotte
+BTN,Thimphu
+BRB,Bridgetown
+SLB,Honiara
+TTO,Port of Spain
+MYT,Mamoudzou
+LCA,Castries
+MYS,Putrajaya
+STP,Sao Tome
+CPV,Praia
+GUF,Cayenne
+SWZ,Mbabane
+BRN,Bandar Seri Begawan
+VUT,Port-Vila
+TZA,Dodoma
+WSM,Apia
+CIV,Yamoussoukro
+MCO,Monaco
+ABW,Oranjestad
+GIB,Gibraltar
+JEY,Saint Helier
+TGO,Lome
+MHL,Majuro
+KIR,Tarawa
+IMN,Douglas
+CYM,George Town
+SYC,Victoria
+TON,Nuku`alofa
+AND,Andorra la Vella
+ATG,Saint John's
+GGY,Saint Peter Port
+GRL,Nuuk
+COM,Moroni
+BLZ,Belmopan
+DMA,Roseau
+VCT,Kingstown
+FRO,Torshavn
+KNA,Basseterre
+VGB,Road Town
+ASM,Pago Pago
+FSM,Palikir
+TUV,Funafuti
+SWZ,Lobamba
+MAF,Marigot
+LIE,Vaduz
+SPM,Saint-Pierre
+GRD,Saint George's
+SMR,San Marino
+COK,Avarua
+TCA,Grand Turk
+AIA,The Valley
+MAR,Tifariti
+MNP,Capitol Hill
+BLM,Gustavia
+FLK,Stanley
+SXM,Philipsburg
+XSV,Longyearbyen
+CXR,Flying Fish Cove
+GUM,Hagta
+WLF,Mata-Utu
+BMU,Hamilton
+VAT,Vatican City
+NRU,Yaren
+SHN,Jamestown
+NIU,Alofi
+MSR,Brades
+NFK,Kingston
+GLP,Basse-Terre
+PLW,Ngerulmud
+PCN,Adamstown
+MSR,Plymouth
+SGS,King Edward Point
+VIR,Charlotte Amalie
